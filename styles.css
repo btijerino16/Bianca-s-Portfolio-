@@ -12,7 +12,7 @@ h1 {
 }
 
 img {
-    width: 380px;
+    width: 424x;
     height: 380px;
     position: sticky;
     float: left;
@@ -23,5 +23,12 @@ img {
 }
 
 h2 {
-    font-size: medium;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.about {
+    text-align: center;
 }
