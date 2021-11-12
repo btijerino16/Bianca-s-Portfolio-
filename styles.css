@@ -6,7 +6,7 @@ body {
 h1 {
     background-color:black ;
     color: white;
-    font-size: 30px;
+    font-size: 60px;
     letter-spacing: 5px;
     text-align: center;
 }
@@ -15,20 +15,44 @@ img {
     width: 424x;
     height: 380px;
     position: sticky;
-    float: left;
+    float: inline-end;
     padding: 15px;
     
-
 
 }
 
 h2 {
-    color: white;
+    color: rgb(121, 105, 105);
     text-align: center;
-    text-decoration: underline;
+    font-size: 50px;
 
 }
 
-.about {
-    text-align: center;
+
+
+div {
+    background-color: blanchedalmond;
 }
+/* these are my navigation links */
+
+header nav {
+    margin: 10px ;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style: none;
+  }
+
+header nav ul li a {
+ 
+    margin: 10px 15px;
+    font-weight: lighter;
+    font-size: 1.0vw;
+}
+
+li a:hover {
+    background-color: thistle;
+    color:black;
