@@ -33,12 +33,20 @@ h1 {
     text-align: center;
 }
 
+.work-container {
+    float: inline-end;
+
+}
 
 
 h2 {
-    color: rgb(121, 105, 105);
-    text-align: center;
-    font-size: 50px;
+    color: black;
+    text-decoration: darkgray;
+    font-size: 75px;
+    font-family: 'Arima Madurai', cursive;
+font-weight: 400;
+
+
 
 }
 
