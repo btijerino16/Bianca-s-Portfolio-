@@ -1,26 +1,39 @@
 body {
-    background-color: teal;
+   
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: palevioletred;
+}
+
+.hero {
+
+   background-image: url(./assets/branch-of-apple-blossoms-spring-vector-9375918.jpg);
+   background-position: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start
+    
+}
+
+header {
+
+    font-family: 'Cookie', cursive;
+    color: black;
+    font-size: 65px;
+}
+
+h2 {
+    color: black;
 }
 
 h1 {
-    background-color:black ;
-    color: white;
-    font-size: 60px;
+    color:black;
+    font-size: 35px;
     letter-spacing: 5px;
     text-align: center;
 }
 
-img {
-    width: 424x;
-    height: 380px;
-    position: center;
-    padding: 15px;
-    align-items: center;
-    
-    
 
-}
 
 h2 {
     color: rgb(121, 105, 105);
@@ -29,9 +42,7 @@ h2 {
 
 }
 
-div {
-    background-color: blanchedalmond;
-}
+
 
 /* these are my navigation links */
 
