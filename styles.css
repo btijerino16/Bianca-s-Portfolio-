@@ -85,3 +85,17 @@ li a:hover {
     align-items: center;
 
 }
+
+
+@media screen and (max-width: 768px) {
+
+    .hero img {
+        width: 50vw;
+    
+    }
+    @media screen and (max-width: 548px) {
+        .my-work .placeholder {
+            margin-left: 1px;
+        }
+    }
+    }
