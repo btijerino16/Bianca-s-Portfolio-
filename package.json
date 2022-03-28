@@ -1,5 +1,28 @@
 {
   "dependencies": {
-    "react": "^17.0.2"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "name": "bianca-s-portfolio",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btijerino16/Bianca-s-Portfolio-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btijerino16/Bianca-s-Portfolio-/issues"
+  },
+  "homepage": "https://github.com/btijerino16/Bianca-s-Portfolio-#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.4",
+    "babel-preset-react": "^6.24.1"
   }
 }
